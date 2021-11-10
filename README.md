@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Patsanaphon Apiwattanawong
 - 👀 I’m interested in 3D animation and problem solving
-- 🌱 I’m currently learning Flutter, C#, Java and Python
+- 🌱 I’m currently learning Flutter, C#, Java, Python, React.js and Other
 - 📫 Email: Ap.patsanaphon_st@tni.ac.th
